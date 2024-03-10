@@ -1,1 +1,1 @@
-I have successfully installed Node.js, Typescript, and VSCode
+I have successfully installed Node.js, Typescript, and VSCode.
