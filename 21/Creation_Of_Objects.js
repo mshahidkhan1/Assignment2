@@ -1,0 +1,10 @@
+var mountain = { name: "Mount Everest", height: 8848 };
+var river = { name: "Amazon River", length: 6575 };
+var country = { name: "France", population: 67000000 };
+var city = { name: "New York City", population: 8398748 };
+var language = { name: "English", speakers: 1500000000 };
+console.log("Mountain:", mountain);
+console.log("River:", river);
+console.log("Country:", country);
+console.log("City:", city);
+console.log("Language:", language);
